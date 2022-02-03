@@ -1,1 +1,1 @@
-This is file is created to explore the basic commits on master branch
+This is file is created to explore the basic commits on master branch. Adding this statement after this file is added to staged area

@@ -1,4 +1,1 @@
-
-Adding the text after it is modified in conflict branch
-
-This text is written to know about merge conflict
+Change after the text is written in mergesort-impl

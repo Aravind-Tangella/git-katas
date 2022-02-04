@@ -1,1 +1,1 @@
-*.s
+file.txt file2.txt names.txt !file3.txt
